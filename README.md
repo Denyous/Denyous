@@ -1,4 +1,4 @@
-# Hi, I'm Deniz! 👋
+# Hi, I'm Deniz! 
 
 ### Junior Software Developer | Unity & C# Developer
 
@@ -10,7 +10,7 @@ I'm also expanding my knowledge of general software development by learning **Ja
 
 ---
 
-## 🚀 Technologies & Tools
+## Technologies & Tools
 
 **Currently Working With**
 
@@ -29,7 +29,7 @@ I'm also expanding my knowledge of general software development by learning **Ja
 
 ---
 
-## 🎮 Game Development Projects
+##  Game Development Projects
 
 ### The Pursuer
 **2D Hyper-Casual Mobile Game | Published on Google Play**
@@ -60,7 +60,7 @@ A 2D platformer developed while following a game development course on Udemy, pr
 
 ---
 
-## 📚 Currently Improving
+##  Currently Improving
 
 - Strengthening my C# and object-oriented programming skills.
 - Learning Java for Android application development.
@@ -69,8 +69,7 @@ A 2D platformer developed while following a game development course on Udemy, pr
 - Building practical projects and expanding my development portfolio.
 
 ---
-
-## 🎯 Goals
+## Goals
 
 My goal is to become a well-rounded software developer, gain professional industry experience, and contribute to meaningful software and game development projects.
 
@@ -78,7 +77,7 @@ I'm always open to learning, collaborating, and exploring new opportunities.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - GitHub: [Your GitHub Profile](https://github.com/)
 
